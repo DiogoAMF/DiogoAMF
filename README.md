@@ -1,7 +1,7 @@
 ### Olá Eu sou o Diogo Fernandes
 
 - 🌱 Estudando Python
-- 📫 Contate-me no email: diogof.sep@gmail.com
+- 📫 Contate-me no email: diogof.sep@hotmail.com
 
 <div align="center">
   <a href="https://github.com/DiogoAMF">
