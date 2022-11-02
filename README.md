@@ -1,6 +1,7 @@
 ### Olá Eu sou o Diogo Fernandes
 
-- 🌱 Estudando Python
+- Skills <div><a target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a></div>
+- Contact <div><a href="mailto:contato@diogof.sep.tech" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
 - 📫 Contate-me no email: diogof.sep@gmail.com
 
 <div align="center">
@@ -20,8 +21,8 @@
   
 </div>
 
-<div align="center">
+- 👨 Social <div>
   <a href="https://www.linkedin.com/in/diogo-fernandes-427853251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/diogof.sep/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href= "https://www.tumblr.com/blog/bigule-x" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"></a>
+  <a href= "https://www.tumblr.com/blog/bigule-x" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank"></a>
 </div>
