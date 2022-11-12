@@ -1,6 +1,4 @@
-### Olá Eu sou o Diogo Fernandes
-
-- 📫 Contate-me no email: diogof.sep@gmail.com
+## Welcome to my World
 
 <div align="center">
   <a href="https://github.com/DiogoAMF">
