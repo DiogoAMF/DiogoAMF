@@ -1,6 +1,11 @@
 ### Olá Eu sou o Diogo Fernandes
 
 - 📫 Contate-me no email: diogof.sep@gmail.com
+- 👨 Social <div>
+  <a href="https://www.linkedin.com/in/diogo-fernandes-427853251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/diogof.sep/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href= "https://www.tumblr.com/blog/bigule-x" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank"></a>
+</div>
 
 <div align="center">
   <a href="https://github.com/DiogoAMF">
@@ -12,13 +17,6 @@
   
  ![Snake animation](https://github.com/DiogoAMF/DiogoAMF/blob/output/github-contribution-grid-snake.svg)
   
-</div>
- 
- - 👨 Social <div>
-  <a href="https://www.linkedin.com/in/diogo-fernandes-427853251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/diogof.sep/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href= "https://github.com/DiogoAMF" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href= "https://www.tumblr.com/blog/bigule-x" target="_blank"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white" target="_blank"></a>
 </div>
   
  - Skills Front-End <div><a target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
