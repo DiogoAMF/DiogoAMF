@@ -5,6 +5,8 @@
 <div align="center">
  <h1 color="white">Welcome to my universe!</h1>  
  </div>
+ 
+ <p aling="left"> <img src="http://komarev.com/ghpvc/?username=DiogoAMF&color=yellow" alt="Profile views" /></p>
 
 <div align="center">
   <a href="https://github.com/DiogoAMF">
