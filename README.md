@@ -9,9 +9,9 @@
  <p aling="left"> <img src="http://komarev.com/ghpvc/?username=DiogoAMF&color=yellow" alt="Profile views" /></p>
 
 <div align="center">
-  <a href="https://github.com/DiogoAMF">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoAMF&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAMF&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github.com/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoAMF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAMF&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div align="center">
